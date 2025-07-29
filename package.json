@@ -68,7 +68,7 @@
   "dependencies": {
     "chalk": "~0.3.0",
     "forever-agent": "~0.5.2",
-    "lodash-node": "~2.3.0",
+    "lodash-node": "~2.4.1",
     "when": "~2.6.0"
   },
   "repository": {
